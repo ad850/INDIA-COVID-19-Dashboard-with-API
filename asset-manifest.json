@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/INDIA-COVID-19-Dashboard-with-API/static/css/main.faf22d57.chunk.css",
+    "main.js": "/INDIA-COVID-19-Dashboard-with-API/static/js/main.90fd9a83.chunk.js",
+    "main.js.map": "/INDIA-COVID-19-Dashboard-with-API/static/js/main.90fd9a83.chunk.js.map",
+    "runtime-main.js": "/INDIA-COVID-19-Dashboard-with-API/static/js/runtime-main.6ac9eea4.js",
+    "runtime-main.js.map": "/INDIA-COVID-19-Dashboard-with-API/static/js/runtime-main.6ac9eea4.js.map",
+    "static/js/2.d7fc8e3d.chunk.js": "/INDIA-COVID-19-Dashboard-with-API/static/js/2.d7fc8e3d.chunk.js",
+    "static/js/2.d7fc8e3d.chunk.js.map": "/INDIA-COVID-19-Dashboard-with-API/static/js/2.d7fc8e3d.chunk.js.map",
+    "index.html": "/INDIA-COVID-19-Dashboard-with-API/index.html",
+    "static/css/main.faf22d57.chunk.css.map": "/INDIA-COVID-19-Dashboard-with-API/static/css/main.faf22d57.chunk.css.map",
+    "static/js/2.d7fc8e3d.chunk.js.LICENSE.txt": "/INDIA-COVID-19-Dashboard-with-API/static/js/2.d7fc8e3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ac9eea4.js",
+    "static/js/2.d7fc8e3d.chunk.js",
+    "static/css/main.faf22d57.chunk.css",
+    "static/js/main.90fd9a83.chunk.js"
+  ]
+}
